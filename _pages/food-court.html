@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Foods"
+permalink: /foods/
+author_profile: false
+---
+<br>
+
+{% include base_path %}
+
+<div class="grid__wrapper">
+  {% for post in site.foods %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
