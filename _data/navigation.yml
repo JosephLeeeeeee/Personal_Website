@@ -4,5 +4,7 @@ main:
     url: /foods/
   - title: "Posts"
     url: /posts/
+  - title: "Readings"
+    url: /readings/
   - title: "About"
     url: /about/
