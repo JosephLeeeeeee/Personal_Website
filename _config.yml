@@ -306,7 +306,7 @@ defaults:
       related: true
 
 # _readings
-- scope:
+  - scope:
         path: ""
         type: readings
         values:
