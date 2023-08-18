@@ -295,7 +295,7 @@ defaults:
 
   # _foods
   - scope:
-      path: ""
+      path: "_foods"
       type: foods
     values:
       layout: single
@@ -307,7 +307,7 @@ defaults:
 
 # _r&s
   - scope:
-        path: ""
+        path: "_r&s"
         type: r&s
         values:
         layout: single
