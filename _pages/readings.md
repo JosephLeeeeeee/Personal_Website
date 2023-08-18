@@ -1,7 +1,7 @@
 ---
 title: "Current Reading and Studying"
 permalink: /r&s/
-layout: archive
+layout: r&s
 author_profile: true
 ---
 # Current Reading:
