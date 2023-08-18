@@ -305,10 +305,10 @@ defaults:
       share: true
       related: true
 
-# _readings
+# _r&s
   - scope:
         path: ""
-        type: readings
+        type: r&s
         values:
         layout: single
         author_profile: false
