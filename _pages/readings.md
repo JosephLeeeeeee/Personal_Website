@@ -1,7 +1,7 @@
 ---
 title: "Current Reading and Studying"
-permalink: /r&s/
-layout: r&s
+permalink: /readings/
+layout: readings
 author_profile: true
 ---
 # Current Reading:
