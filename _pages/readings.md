@@ -1,5 +1,5 @@
 ---
-title: "Current Reading and Studying"
+title: "Readings"
 permalink: /readings/
 layout: readings
 author_profile: true
