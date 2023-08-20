@@ -305,9 +305,9 @@ defaults:
       share: true
       related: true
 
-# _r&s
+# _readings
   - scope:
-        path: "_r&s"
+        path: "_readings"
         type: r&s
         values:
         layout: single
