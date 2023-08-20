@@ -1,7 +1,7 @@
 ---
 title: "Readings"
 permalink: /readings/
-layout: posts
+layout: readings
 author_profile: true
 ---
 # Current Reading:
