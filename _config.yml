@@ -308,7 +308,7 @@ defaults:
 # _readings
   - scope:
         path: "_readings"
-        type: posts
+        type: readings
     values:
         layout: single
         author_profile: false
