@@ -11,4 +11,4 @@ author_profile: true
 ## 2023
 CS285
 
-{{ site.baseurl }}1999-03-29-birth.md
+- [post](https://leeeeeee.space/birth)
